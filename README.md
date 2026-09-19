@@ -1,27 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sambhav Kumar</h1>
+<h3 align="center">A passionate Full-Stack Developer from Hyderabad, India 🇮🇳</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E75B6&height=140&section=header" alt="Header" width="100%" />
-
-<h1>Hi 👋, I'm Sambhav Kumar</h1>
-<h3>A passionate Full-Stack Developer from Hyderabad, India 🇮🇳</h3>
-
-<a href="https://github.com/Sambhav022">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=620&height=40&lines=React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Java+%26+Object-Oriented+Programming;Building+AI-powered+apps+with+LLM+APIs" alt="Typing animation" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Sambhav022&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Sambhav022 profile views" />
-  <img src="https://img.shields.io/github/followers/Sambhav022?label=Followers&style=for-the-badge&logo=github&color=0F172A&labelColor=0E75B6" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open_to-Internships-16A34A?style=for-the-badge" alt="Open to internships" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sambhav022&label=Profile%20views&color=0e75b6&style=flat" alt="Sambhav022 profile views" />
 </p>
-
-</div>
 
 ---
 
 ## 👨‍💻 About Me
-
-> I enjoy turning ideas into clean, working products — from a QR-based campus tree tracker to an LLM-powered chatbot.
 
 - 🎓 Final-year B.Tech Computer Science & Engineering student at **St. Mary's Engineering College (JNTUH)**, Hyderabad — Class of 2027
 - 🔭 I'm currently building full-stack web apps with **React, Node.js, Express.js and MongoDB**
@@ -39,12 +25,12 @@
 
 | Project | Tech | Links |
 | --- | --- | --- |
-| 🌱 **Green Campus** – QR-based tree digitalization system | React.js, QR Codes, Google Maps | [![Live](https://img.shields.io/badge/Live-Demo-0E75B6?style=flat-square)](https://green-campus-lizq.onrender.com/) [![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Sambhav022/green-campus) |
-| 🤖 **Free AI ChatBot** – Java chatbot powered by the Groq API | Java 21, Maven, Spark, Groq API | [![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Sambhav022/ChatBot-llm) |
-| 🌦️ **Weather Forecast App** – real-time weather with voice & language support | JavaScript, OpenWeatherMap API | [![Live](https://img.shields.io/badge/Live-Demo-0E75B6?style=flat-square)](https://sambhav022.github.io/Weather_Forecast_App/) [![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Sambhav022/Weather_Forecast_App) |
-| 🏠 **Hostel Care Connect** – hostel support app UI | HTML5, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0E75B6?style=flat-square)](https://sambhav022.github.io/Hostel-Care-Connect/) [![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Sambhav022/Hostel-Care-Connect) |
-| 💳 **ATM Demonstration App** – banking operations simulation | Java, OOP | [![Live](https://img.shields.io/badge/Live-Demo-0E75B6?style=flat-square)](https://sambhav022.github.io/Banking_Demo_App/) |
-| 🧮 **Calculator** – arithmetic calculator | Java | [![Live](https://img.shields.io/badge/Live-Demo-0E75B6?style=flat-square)](https://sambhav022.github.io/calculator_with_code/) [![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/Sambhav022/calculator_with_code) |
+| 🌱 **Green Campus** – QR-based tree digitalization system | React.js, QR Codes, Google Maps | [Live](https://green-campus-lizq.onrender.com/) · [Source](https://github.com/Sambhav022/green-campus) |
+| 🤖 **Free AI ChatBot** – Java chatbot powered by the Groq API | Java 21, Maven, Spark, Groq API | [Source](https://github.com/Sambhav022/ChatBot-llm) |
+| 🌦️ **Weather Forecast App** – real-time weather with voice & language support | JavaScript, OpenWeatherMap API | [Live](https://sambhav022.github.io/Weather_Forecast_App/) · [Source](https://github.com/Sambhav022/Weather_Forecast_App) |
+| 🏠 **Hostel Care Connect** – hostel support app UI | HTML5, CSS3 | [Live](https://sambhav022.github.io/Hostel-Care-Connect/) · [Source](https://github.com/Sambhav022/Hostel-Care-Connect) |
+| 💳 **ATM Demonstration App** – banking operations simulation | Java, OOP | [Live](https://sambhav022.github.io/Banking_Demo_App/) |
+| 🧮 **Calculator** – arithmetic calculator | Java | [Live](https://sambhav022.github.io/calculator_with_code/) · [Source](https://github.com/Sambhav022/calculator_with_code) |
 
 ---
 
@@ -129,24 +115,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambhav022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sambhav's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav022&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambhav022&show_icons=true&theme=radical&hide_border=true" alt="Sambhav's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav022&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sambhav022&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sambhav022&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambhav022&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambhav022&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambhav022&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
 </p>
 
 ---
 
 <p align="center">⭐ Thanks for stopping by — feel free to explore my repositories and reach out!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E75B6&height=100&section=footer" alt="Footer" width="100%" />
+<!--
+OPTIONAL ADD-ONS (not enabled — no handles provided yet).
+Twitter badge:
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+Blog sections (dev.to / Medium / personal blog) use a GitHub Action that
+rewrites this file between marker comments such as:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
