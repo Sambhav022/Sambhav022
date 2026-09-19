@@ -4,22 +4,17 @@
 
 </div>
 
-<table width="100%" border="0">
-<tr>
-<td width="180" align="center" valign="middle">
-<img src="https://github.com/Sambhav022.png" width="150" height="150" style="border-radius:50%;border:3px solid #6366F1;"/>
-</td>
-<td valign="middle">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=false&vCenter=true&width=550&lines=Final-Year+CS+Student+%40+St.+Mary's+Engineering+College;Building+full-stack+apps+with+React+%26+Node.js;Wiring+cloud+AI+models+into+real+products;Open+to+Internships+%26+Entry-Level+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Final-Year+CS+Student+%40+St.+Mary's+Engineering+College;Building+full-stack+apps+with+React+%26+Node.js;Wiring+cloud+AI+models+into+real+products;Open+to+Internships+%26+Entry-Level+roles+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" />
 <img src="https://img.shields.io/badge/Graduating-2027-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Hyderabad,_India-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -37,46 +32,80 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/-Languages-6366F1?style=for-the-badge"/>
+<table width="100%">
+<tr>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/LANGUAGES-6366F1?style=for-the-badge"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=js,java,dart,html,css,py,c"/>
 
-<img src="https://img.shields.io/badge/-Frontend-8B5CF6?style=for-the-badge"/>
+</td>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/FRONTEND-8B5CF6?style=for-the-badge"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,vite,flutter,figma"/>
 
-<img src="https://img.shields.io/badge/-Backend-06B6D4?style=for-the-badge"/>
+</td>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/BACKEND-06B6D4?style=for-the-badge"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
 
-<img src="https://img.shields.io/badge/-Mobile-6366F1?style=for-the-badge"/>
+</td>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/MOBILE-6366F1?style=for-the-badge"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
 
-<img src="https://img.shields.io/badge/-Database-8B5CF6?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/DATABASE-8B5CF6?style=for-the-badge"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-<img src="https://img.shields.io/badge/-DevOps_%26_Tools-06B6D4?style=for-the-badge"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</td>
+<td align="center" valign="middle" width="25%" height="190">
 
-<img src="https://img.shields.io/badge/-AI_%2F_ML-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVOPS_%26_CLOUD-06B6D4?style=for-the-badge"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP_Servers-06B6D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20"/>
 
-<img src="https://img.shields.io/badge/-APIs_%26_Integrations-06B6D4?style=for-the-badge"/>
+</td>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/AI_%2F_ML-6366F1?style=for-the-badge"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/QR_Codes-000000?style=for-the-badge&logo=qrcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=lightning&logoColor=white" height="20"/>
+<br/>
+<img src="https://img.shields.io/badge/Prompt_Eng-8B5CF6?style=flat-square&logo=openai&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MCP_Servers-06B6D4?style=flat-square&logo=databricks&logoColor=white" height="20"/>
+
+</td>
+<td align="center" valign="middle" width="25%" height="190">
+
+<img src="https://img.shields.io/badge/TOOLS_%26_IDEs-8B5CF6?style=for-the-badge"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/QR_Codes-000000?style=flat-square&logo=qrcode&logoColor=white" height="20"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
